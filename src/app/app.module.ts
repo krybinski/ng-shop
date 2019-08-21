@@ -5,7 +5,7 @@ import { AngularFireDatabaseModule } from 'angularfire2/database-deprecated';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
 import { AppComponent } from './app.component';
-import { environment } from 'environments/environment';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
