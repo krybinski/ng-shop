@@ -1,9 +1,9 @@
 export const firebase = {
-  apiKey: "AIzaSyCJeFVhuLXeFar--QCLiXPwindCZPga1jk",
-  authDomain: "ng4-shop-14866.firebaseapp.com",
-  databaseURL: "https://ng4-shop-14866.firebaseio.com",
-  projectId: "ng4-shop-14866",
-  storageBucket: "",
-  messagingSenderId: "207400726069",
-  appId: "1:207400726069:web:ddf99bcb50efc49e"
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: ''
 };
