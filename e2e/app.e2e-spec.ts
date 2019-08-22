@@ -1,10 +1,10 @@
-import { Ng4ShopPage } from './app.po';
+import { NgShopPage } from './app.po';
 
-describe('ng4-shop App', () => {
-  let page: Ng4ShopPage;
+describe('ng-shop App', () => {
+  let page: NgShopPage;
 
   beforeEach(() => {
-    page = new Ng4ShopPage();
+    page = new NgShopPage();
   });
 
   it('should display welcome message', done => {

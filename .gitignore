@@ -25,6 +25,7 @@
 !.vscode/extensions.json
 
 # misc
+/.firebase
 /.sass-cache
 /connect.lock
 /coverage
@@ -32,6 +33,7 @@
 npm-debug.log
 testem.log
 /typings
+firebase-debug.log
 
 # e2e
 /e2e/*.js

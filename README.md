@@ -1,4 +1,4 @@
-# Ng4Shop
+# NgShop
 
 Copy `src/environments/firebase.ts.example` to `src/environments/firebase.ts` and set up
 
